@@ -10,9 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Swoosh">
         <activity
+            android:name=".BaseActivity"
+            android:exported="true" />
+        <activity
             android:name=".LeagueActivity"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
