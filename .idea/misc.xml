@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/font/montserrat_alternates.xml" value="0.23020833333333332" />
         <entry key="app/src/main/res/layout/activity_league.xml" value="0.11484375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17027027027027028" />
+        <entry key="app/src/main/res/layout/activity_skill.xml" value="0.33" />
       </map>
     </option>
   </component>
